@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Research overview"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/Prev_research-624x320.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The main focus of our current research is engineering photonic modes in nanostructures of atomically thin materials such as graphene and monolayer dichalcogenides (eg. MoS2). Such materials display many unconventional optical properties which are not found in usual three dimensional materials. We are interested in applications of my work in energy harvesting, sub-wavelength imaging and optical circuitry.
